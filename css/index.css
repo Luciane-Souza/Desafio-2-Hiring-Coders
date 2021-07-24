@@ -1,0 +1,54 @@
+* {
+    margin:0; 
+    padding:0;
+}
+
+.pagina-titulo {
+    width:100%; 
+    background-color:#222;
+}
+
+.pagina-titulo h2 {
+    padding:15px 0; 
+    color:white; 
+    text-align:center; 
+    text-transform:uppercase;
+}
+
+.cadastro h3{
+    margin: 40px;
+    text-align: center;
+}
+
+
+#formulario{
+    display: grid;
+    justify-content:center;
+    margin: 20px;
+}
+
+#formulario-produto{
+    display: grid;
+    justify-content: center;
+    margin: 20px;
+}
+
+.spinner {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+
+
+.rodape {
+    width:100%; 
+    padding:60px 0; 
+    background-color:#444; 
+    background-image:url(../img/padrao-fundo-rodape.png); 
+    background-repeat:repeat; 
+    border-top:5px solid #8B060E;
+    color:#fff; 
+    text-align:center; 
+}
